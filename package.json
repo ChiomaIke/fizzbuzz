@@ -1,0 +1,25 @@
+{
+  "name": "letters",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiomaIke/fizzbuzz.git"
+  },
+  "keywords": [
+    "fizz"
+  ],
+  "author": "Chioma Ike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiomaIke/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/ChiomaIke/fizzbuzz#readme"
+}
